@@ -1,0 +1,51 @@
+.top1{
+    display:flex;
+}
+.top1block{
+    display: flex;
+    background-color: brown;
+    margin:10px;
+    height: 100px;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+.top2{
+    display: flex;
+}
+.top2block{
+    display: flex;
+    background-color: brown;
+    margin:10px;
+    width: 100%;
+    height: 100px;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+.top3{
+    display: flex;
+}
+.top3block{
+    display: flex;
+    background-color: brown;
+    margin:10px;
+    width: 100%;
+    height: 100px;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+.top4{
+    display: flex;
+}
+.top4block{
+    display: flex;
+    background-color: brown;
+    margin:10px;
+    width: 100%;
+    height: 100px;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
